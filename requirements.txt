@@ -1,0 +1,7 @@
+#To install dependencies, run the following command:pip install -r requirements.txt
+streamlit
+pandas
+openpyxl
+requests
+beautifulsoup4
+pytz
